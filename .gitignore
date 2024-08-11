@@ -1,7 +1,5 @@
-*
+ConsoleApp
+ConsoleApp.sln
+.vscode
 
-!.gitignore
-!.Program.cs
-!.README.md
-
-!*/ConsoleApp
+!ConsoleApp/Program.cs
