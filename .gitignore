@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!.Program.cs
+!.README.md
+
+!*/ConsoleApp
